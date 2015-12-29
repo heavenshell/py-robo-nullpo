@@ -23,4 +23,22 @@ Usage
   > ｶﾞｯ
 
 
+.. code::
+  $ export ROBO_NULLPO_RICH_STYLE=rich
+  > robo ぬるぽ
+            　 Λ＿Λ　　　　＼＼
+             （　・∀・）　　　|　|　ｶﾞｯ
+             と　　　　）　　　|　|
+             　 Ｙ　/ノ　　　 人
+             　　 /　）　 　 < 　>_Λ∩
+              ＿/し´　／／. Ｖ｀Д´）/
+              （＿フ彡　　　　　　 /　>>@None
+
+
+
+
+
+
+
+
 This handler is ported form `hubot-nullpo <https://github.com/qckanemoto/hubot-nullpo/>`_ by qckanemoto.
